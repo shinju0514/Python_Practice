@@ -68,4 +68,3 @@ name = '松田' # 文字列の場合
 print(f'str(変更前):{id(name)}')
 name = 'スーパー' + name
 print(f'str(変更後):{id(name)}')
-
